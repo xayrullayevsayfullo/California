@@ -1,0 +1,10 @@
+.header__content {
+    background-image: url(img1.png);
+    background-size: cover;
+    
+    width: 100%;
+    
+} 
+.main__section {
+    border-image: url("../assets/img/Rectangle\ 6.png");
+}  
